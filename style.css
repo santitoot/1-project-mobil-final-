@@ -60,6 +60,7 @@ nav > a {
 }
 
 .profile > h1 {
+  margin-top: 120px;
   line-height: 52px;
   color: #172b4d;
 }
